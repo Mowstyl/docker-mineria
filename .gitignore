@@ -38,3 +38,8 @@ config.rst
 /.project
 /.pydevproject
 
+.local
+.ipython
+.jupyter
+.cache
+.config
