@@ -14,3 +14,5 @@ https://hub.docker.com/r/jacintoarias/mineria/
 A docker-compose file is included as an example on how to launch the jupyter
 notebook. It just exposes the notebook on port 8888 and binds the working
 directory as a volume on the home directory of the notebook server.
+
+adads
